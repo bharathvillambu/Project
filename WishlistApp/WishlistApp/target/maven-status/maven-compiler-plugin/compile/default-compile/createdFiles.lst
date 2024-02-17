@@ -1,0 +1,5 @@
+com\kumar\WishlistApp\Controller\WishlistController.class
+com\kumar\WishlistApp\Objects\Wishlist.class
+com\kumar\WishlistApp\Service\WishlistService.class
+com\kumar\WishlistApp\WishlistAppApplication.class
+com\kumar\WishlistApp\DAO\WishlistDAO.class

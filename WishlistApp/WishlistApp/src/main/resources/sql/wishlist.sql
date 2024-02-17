@@ -1,0 +1,4 @@
+CREATE TABLE wishlist (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    wish VARCHAR(255),
+);
